@@ -75,7 +75,7 @@
 
         /* Hero Section */
         .hero-section {
-            background-image: url(images/banner.jpg);
+            background-image: url(../images/banner.jpg);
             /* background: var(--primary-dark-blue); */
             min-height: 80vh;
             display: flex;
@@ -342,7 +342,7 @@
         .capabilities-section {
             padding: 5rem 0;
             background: var(--light-gray);
-            background-image: url(images/back.png);
+            background-image: url(../images/back.png);
     background-size: cover;
     background-position: center;
         }
