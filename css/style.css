@@ -480,6 +480,7 @@
         @media (max-width: 576px) {
             .hero-content h1 {
                 font-size: 1.8rem;
+             margin-top:100px !important;
             }
             
             .service-card {
